@@ -20,8 +20,6 @@ I am pleased to present this comprehensive collection of advanced Retrieval-Augm
 
 Retrieval-Augmented Generation (RAG) is revolutionizing the way we combine information retrieval with generative AI. This repository showcases a curated collection of advanced techniques designed to supercharge your RAG systems, enabling them to deliver more accurate, contextually relevant, and comprehensive responses.
 
-🔗 For discussions on GenAI, RAG, or custom agents, or to explore knowledge-sharing opportunities, feel free to [connect on LinkedIn](https://www.linkedin.com/in/nir-diamant-759323134/).
-
 ## Key Features
 
 - 🧠 State-of-the-art RAG enhancements
@@ -231,23 +229,3 @@ To begin implementing these advanced RAG techniques in your projects:
    cd all_rag_techniques/technique-name
    ```
 3. Follow the detailed implementation guide in each technique's directory.
-
-## Contributing
-
-We welcome contributions from the community! If you have a new technique or improvement to suggest:
-
-1. Fork the repository
-2. Create your feature branch: `git checkout -b feature/AmazingFeature`
-3. Commit your changes: `git commit -m 'Add some AmazingFeature'`
-4. Push to the branch: `git push origin feature/AmazingFeature`
-5. Open a pull request
-
-## License
-
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
-
----
-
-⭐️ If you find this repository helpful, please consider giving it a star!
-
-Keywords: RAG, Retrieval-Augmented Generation, NLP, AI, Machine Learning, Information Retrieval, Natural Language Processing, LLM, Embeddings, Semantic Search
